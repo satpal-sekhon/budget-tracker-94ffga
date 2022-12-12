@@ -1,0 +1,8 @@
+{
+  "name": "Budget Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e64e40b3"
+}

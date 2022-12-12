@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Budget Tracker",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
